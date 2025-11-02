@@ -1,0 +1,105 @@
+[
+  {
+    "_id": "1760530536383",
+    "name": "dummy_sales_data.csv",
+    "filename": "1760530536349-dummy_sales_data.csv",
+    "createdAt": "2025-10-15T12:15:36.383Z",
+    "rowCount": 100,
+    "columns": [
+      "Date",
+      "Product",
+      "Region",
+      "Sales",
+      "Quantity"
+    ]
+  },
+  {
+    "_id": "1760613082590",
+    "name": "employees.xlsx",
+    "filename": "1760613082463-employees.xlsx",
+    "createdAt": "2025-10-16T11:11:22.590Z",
+    "rowCount": 8,
+    "columns": [
+      "Name",
+      "Age",
+      "Department",
+      "Salary",
+      "JoiningDate"
+    ]
+  },
+  {
+    "_id": "1760695215744",
+    "name": "dummy_sales_data.csv",
+    "filename": "1760695215672-dummy_sales_data.csv",
+    "createdAt": "2025-10-17T10:00:15.744Z",
+    "rowCount": 100,
+    "columns": [
+      "Date",
+      "Product",
+      "Region",
+      "Sales",
+      "Quantity"
+    ],
+    "uploadedBy": "68f20a71a682a0d821621b26"
+  },
+  {
+    "_id": "1760696220133",
+    "name": "dummy_sales_data.csv",
+    "filename": "1760696220120-dummy_sales_data.csv",
+    "createdAt": "2025-10-17T10:17:00.133Z",
+    "rowCount": 100,
+    "columns": [
+      "Date",
+      "Product",
+      "Region",
+      "Sales",
+      "Quantity"
+    ],
+    "uploadedBy": "68f20a71a682a0d821621b26"
+  },
+  {
+    "_id": "1760696585468",
+    "name": "employees.xlsx",
+    "filename": "1760696585426-employees.xlsx",
+    "createdAt": "2025-10-17T10:23:05.468Z",
+    "rowCount": 8,
+    "columns": [
+      "Name",
+      "Age",
+      "Department",
+      "Salary",
+      "JoiningDate"
+    ],
+    "uploadedBy": "68f20a71a682a0d821621b26"
+  },
+  {
+    "_id": "1760697508625",
+    "name": "employees.xlsx",
+    "filename": "1760697508610-employees.xlsx",
+    "createdAt": "2025-10-17T10:38:28.625Z",
+    "rowCount": 8,
+    "columns": [
+      "Name",
+      "Age",
+      "Department",
+      "Salary",
+      "JoiningDate"
+    ],
+    "uploadedBy": "68f20a71a682a0d821621b26"
+  },
+  {
+    "_id": "1760697774354",
+    "name": "employees.xlsx",
+    "filename": "1760697774317-employees.xlsx",
+    "createdAt": "2025-10-17T10:42:54.354Z",
+    "rowCount": 8,
+    "columns": [
+      "Name",
+      "Age",
+      "Department",
+      "Salary",
+      "JoiningDate"
+    ],
+    "uploadedBy": "68f20a71a682a0d821621b26"
+  }
+]
